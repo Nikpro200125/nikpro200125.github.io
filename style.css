@@ -1,3 +1,10 @@
 h1 {
     align-content: center;
 }
+
+p {
+    color: red;
+    font-size: 76px;
+    text-decoration: underline;
+    text-align: center;
+}
